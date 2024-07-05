@@ -5,24 +5,26 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+
+
 <url>
   <loc>https://fousiya30.github.io/Website/</loc>
-  <lastmod>2024-07-05T07:19:51+00:00</lastmod>
+  <lastmod>2024-07-05T07:49:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://fousiya30.github.io/Website/index.html</loc>
-  <lastmod>2024-07-05T07:19:51+00:00</lastmod>
+  <lastmod>2024-07-05T07:49:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fousiya30.github.io/Website/about.html</loc>
-  <lastmod>2024-07-05T07:19:51+00:00</lastmod>
+  <lastmod>2024-07-05T07:49:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://fousiya30.github.io/Website/service.html</loc>
-  <lastmod>2024-07-05T07:19:51+00:00</lastmod>
+  <lastmod>2024-07-05T07:49:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
